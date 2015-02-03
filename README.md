@@ -2,7 +2,4 @@
 Short description...
 Edited 2015
 ## Title
-Edited Ubuntu.
-test
-sdfsdf
-xxx
+3. februar 2015
